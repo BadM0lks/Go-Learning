@@ -7,6 +7,9 @@ Repositorio de aprendizaje de Go basado en ejercicios prácticos y proyectos rea
 | Ejercicio | Tema | Estado |
 | --- | --- | --- |
 | [01](ejercicios/01-validacion/) | Validación de cadenas y `strings.TrimSpace` | Completado |
+| [02](ejercicios/02-structs/) | Estructuras `struct` y funciones de validación | Completado |
+
+El **ejercicio 03** (métodos, punteros y tipos personalizados) sigue en curso y se publicará cuando esté terminado.
 
 ## Probar el código
 
